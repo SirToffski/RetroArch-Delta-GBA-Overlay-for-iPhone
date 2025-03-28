@@ -9,3 +9,8 @@ In RetroArch settings: **User Interface** > **On-Screen Overlay**  > **Overlay P
 # Screenshot
 ![screenshot](https://raw.githubusercontent.com/SirToffski/RetroArch-Delta-GBA-Overlay-for-iPhone/refs/heads/main/gba_delta/screenshot.PNG?raw=true)
 
+# Attributions
+
+* Button icons with file names `<button>_delta.png` are from: https://github.com/Gamewizard3000/Delta-Overlay-for-Retroarch
+* Button icons with file names `<button>_svgrepo-com.png` are from: https://www.svgrepo.com/
+* Overlay created using: https://valent-in.github.io/retropad-editor/
