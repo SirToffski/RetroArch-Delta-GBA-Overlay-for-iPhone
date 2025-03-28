@@ -1,1 +1,1 @@
-# RetroArca - Delta GBA Overlay for iPhone
+# RetroArch - Delta GBA Overlay for iPhone
