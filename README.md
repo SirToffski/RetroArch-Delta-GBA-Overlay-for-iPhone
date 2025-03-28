@@ -7,4 +7,5 @@ The easiest way to install this on iOS is to download the repository as a `.zip`
 In RetroArch settings: **User Interface** > **On-Screen Overlay**  > **Overlay Preset**.  Navigate to where you moved `delta_gba` and select `retro-arch-gba-overlay_w_savestate.cfg`
 
 # Screenshot
-![screenshot](/delta_gba/screenshot.PNG)
+![alt text](https://github.com/SirToffski/RetroArch-Delta-GBA-Overlay-for-iPhone/blob/main/screenshot.PNG?raw=true)
+
